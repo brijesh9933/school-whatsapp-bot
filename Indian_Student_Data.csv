@@ -1,0 +1,21 @@
+regNumber,firstName,middleName,lastName,class,section,rollNo,gender,fatherName,motherName,guardianNumber1,guardianNumber2
+REG1001,Vivaan,Raj,Rao,11,B,1,Male,Sai Raj Rao,Anaya Lal Rao,+917506939866,+917754429267
+REG1002,Aditya,Nath,Rao,3,A,2,Female,Vivaan Kaur Rao,Aditya Singh Rao,+917928869827,+918159891043
+REG1003,Vivaan,Lal,Chopra,11,B,3,Female,Vivaan Nath Chopra,Sai Prasad Chopra,+918715506932,+918268051961
+REG1004,Aarav,Kumar,Das,3,A,4,Female,Vihaan Singh Das,Vihaan Shree Das,+919593698110,+917210786277
+REG1005,Vivaan,Nath,Chopra,4,C,5,Male,Vihaan Shree Chopra,Sai Shree Chopra,+917415930633,+917491760376
+REG1006,Vivaan,Kaur,Rao,1,C,6,Male,Ishita Raj Rao,Vihaan Kumar Rao,+919514963519,+917593909468
+REG1007,Arjun,Lal,Rao,10,C,7,Female,Aditya Singh Rao,Ishita Kaur Rao,+917077292925,+919947766194
+REG1008,Ishita,Lal,Chopra,1,A,8,Male,Aditya Lal Chopra,Aarav Raj Chopra,+917172059231,+917677330522
+REG1009,Sai,Nath,Reddy,8,B,9,Male,Aarav Kaur Reddy,Aditya Prasad Reddy,+918151144707,+919087508898
+REG1010,Vihaan,Kaur,Mehta,1,A,10,Male,Vivaan Rani Mehta,Krishna Shree Mehta,+917647466645,+918115027876
+REG1011,Krishna,Raj,Das,8,C,11,Male,Aditya Shree Das,Krishna Lal Das,+917830105665,+918668694556
+REG1012,Anaya,Nath,Bose,8,C,12,Male,Diya Singh Bose,Diya Raj Bose,+917836478700,+918342490766
+REG1013,Krishna,Devi,Reddy,9,B,13,Male,Aditya Raj Reddy,Sai Nath Reddy,+919573918126,+917020610272
+REG1014,Sai,Rani,Nair,12,A,14,Female,Aditya Prasad Nair,Ishita Rani Nair,+918360061979,+919856104420
+REG1015,Aditya,Singh,Rao,10,A,15,Female,Arjun Kaur Rao,Krishna Lal Rao,+918974008059,+917886486862
+REG1016,Sai,Kumar,Rao,3,B,16,Male,Sai Kaur Rao,Aarav Rani Rao,+917675611669,+919448567631
+REG1017,Vihaan,Devi,Bose,3,C,17,Female,Krishna Kumar Bose,Diya Nath Bose,+917813314321,+917708715953
+REG1018,Anaya,Kumar,Rao,5,C,18,Female,Aarav Kumar Rao,Aarav Nath Rao,+918483246308,+918434609316
+REG1019,Aarav,Kaur,Chopra,4,B,19,Male,Ishita Lal Chopra,Sai Kumar Chopra,+919218336216,+918132361242
+REG1020,Vivaan,Singh,Das,2,A,20,Male,Diya Lal Das,Arjun Nath Das,+917317506989,+917897570962
