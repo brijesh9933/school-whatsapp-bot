@@ -25,7 +25,7 @@ const port = 3000;
 
 
 const accountSid = 'ACba5033e9b3aefd784a645fc2639d1ba1';
-const authToken = 'db834e6691443f285fec43eddf9005f9';
+const authToken = '';
 const client = twilio(accountSid, authToken);
 
 // Middleware
