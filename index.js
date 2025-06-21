@@ -11,20 +11,20 @@ const port = 3000;
 
 
     /** Appointment Remainder template */
-    const   contentSid0 =  'HXb5b62575e6e4ff6129ad7c8efe1f983e';
+    const   contentSid0 =  '';
   
     /** Order notification template */
-    const   contentSid1 =  'HX350d429d32e64a552466cafecbe95f3c';
+    const   contentSid1 =  '';
   
     /** Verification template */
-    const  contentSid2 =  'HX229f5a04fd0510ce1b071852155d3e75';
+    const  contentSid2 =  '';
   
     /** Custom template */
-    const    contentSid3 =  'HX3309112c58d09f9ae4761bbb5086abaa';
+    const    contentSid3 =  '';
   
 
 
-const accountSid = 'ACba5033e9b3aefd784a645fc2639d1ba1';
+const accountSid = '';
 const authToken = '';
 const client = twilio(accountSid, authToken);
 
